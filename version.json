@@ -1,0 +1,21 @@
+{
+  "app": "MyStore POS",
+  "appVersion": "4.4",
+  "store": "Arroyo Store",
+  "till": "TILL-01",
+  "bizId": "tfxj3w1ldl9z",
+  "build": "1790244458547",
+  "cache": "mystore-tfxj3w1ldl9z-v1790244458547",
+  "generated": "2026-09-24T10:07:55.495Z",
+  "cloudSync": true,
+  "features": {
+    "scanner": true,
+    "printer": true,
+    "drawer": true,
+    "scale": true,
+    "customerDisplay": true,
+    "kds": false,
+    "offlineFirst": true,
+    "loyalty": true
+  }
+}

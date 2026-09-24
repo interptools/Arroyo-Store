@@ -1,0 +1,3 @@
+# A shop till has no business in a search index.
+User-agent: *
+Disallow: /
