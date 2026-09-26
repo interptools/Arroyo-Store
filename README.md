@@ -4,11 +4,11 @@
 
 ## 🌐 Live App
 
-**https://interptools.github.io/arroyo-store/**
+**https://arroyosuite.github.io/arroyo-store/**
 
 ## 📱 Install as App
 
-1. Open **https://interptools.github.io/arroyo-store/** in Chrome (Android) or Safari (iPhone)
+1. Open **https://arroyosuite.github.io/arroyo-store/** in Chrome (Android) or Safari (iPhone)
 2. Tap **⋮ menu** → **Add to Home Screen**
 3. Tap **Add** — your POS opens full screen like a native app
 
